@@ -33,3 +33,24 @@ button{
 
 }
 
+#topleft, #topright{
+    margin: 15px 0 0 0;
+}
+
+a{
+    position: relative;
+    color: black;
+    opacity:.75;
+    padding-left:15px;
+    text-decoration-line: none;
+}
+
+#topleft{
+    position: relative;
+    float:left;
+}
+
+#topright{
+    position: relative;
+    float:right;
+}
