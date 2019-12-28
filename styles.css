@@ -55,3 +55,10 @@ a{
     float:right;
 }
 
+.gapps{
+    position:relative;
+    float: right;
+    padding-left:15px;
+    width:26px;
+    opacity:.55;
+}
